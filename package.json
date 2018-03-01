@@ -1,6 +1,6 @@
 {
   "name": "react-crypto",
-  "homepage": "http://jlowe1210.github.io/react-crypto-table",
+  "homepage": "http://jlowe1210.github.io/crypto-table-react",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
